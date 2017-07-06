@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'helveticabold';
+    src: url('helvetica-bold-webfont.woff2') format('woff2'),
+         url('helvetica-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'natura_scriptregular';
+    src: url('naturascript-webfont.woff2') format('woff2'),
+         url('naturascript-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'naturasansweblight';
+    src: url('naturasansweb-light-webfont.woff2') format('woff2'),
+         url('naturasansweb-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'naturasanswebregular';
+    src: url('naturasansweb-regular-webfont.woff2') format('woff2'),
+         url('naturasansweb-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'naturasanswebbold';
+    src: url('naturasansweb-bold-webfont.woff2') format('woff2'),
+         url('naturasansweb-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'naturasanslight';
+    src: url('naturasans-light-webfont.woff2') format('woff2'),
+         url('naturasans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'naturasansregular';
+    src: url('naturasans-regular-webfont.woff2') format('woff2'),
+         url('naturasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'naturasansbold';
+    src: url('naturasans-bold-webfont.woff2') format('woff2'),
+         url('naturasans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
